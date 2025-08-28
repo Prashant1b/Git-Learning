@@ -25,3 +25,9 @@ console.log(7);
 console.log(15);
 
 console.log(255);
+
+function show(){
+    console.log(balance);
+}
+
+show();
