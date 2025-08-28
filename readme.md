@@ -27,5 +27,5 @@ we use git merge branch name to merge but first of fall we need to back to maste
 we can also check how many branch are present and which branch am i currently at
 
 <!-- Delete a branch -->
-git branch --d branch-name
-git branch --D branch-name(unmerged also)
+git branch -d branch-name
+git branch -D branch-name(unmerged also)
