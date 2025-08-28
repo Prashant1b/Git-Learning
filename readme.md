@@ -13,6 +13,8 @@ we can commit using
 <!-- Rever the change  -->
 git reset --hard<hash>
 git revert <hashcode>
+revrt ke baad git add .
+phir commit kar do
 
 <!-- How to create branch  -->
 git checkout --b <branch-name>
