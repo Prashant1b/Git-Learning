@@ -22,3 +22,4 @@ function add(a){
 }
 
 console.log(7);
+console.log(15);
