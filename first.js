@@ -15,4 +15,8 @@ function withdrawmoney(amount){
     balance-=withdrawmoney;
 }
 
-console.log("Branch commit")
+console.log("Branch commit");
+
+function add(a){
+    console.log(a);
+}

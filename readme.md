@@ -17,7 +17,9 @@ revrt ke baad git add .
 phir commit kar do
 
 <!-- How to create branch  -->
-git checkout --b <branch-name>
+git checkout -b <branch-name>
+
+we use git merge name to merge the branch
 
 we use git merge branch name to merge but first of fall we need to back to master branch so we sue
 <!-- git checkout master -->
