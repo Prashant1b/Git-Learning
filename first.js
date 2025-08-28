@@ -8,3 +8,5 @@ function updatebalance(a){
 }
 
 updatebalance(5);
+
+console.log(updatebalance(10));
