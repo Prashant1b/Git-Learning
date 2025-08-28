@@ -20,3 +20,5 @@ phir commit kar do
 git checkout --b <branch-name>
 
 <!-- Delete a branch -->
+git branch --d branch-name
+git branch --D branch-name(unmerged also)
