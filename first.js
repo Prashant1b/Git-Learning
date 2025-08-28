@@ -1,4 +1,4 @@
-const name="Prashant";
+const name1="Prashant";
 const age=90;
 let balance=2500;
 const d=582;
@@ -31,3 +31,8 @@ function show(){
 }
 
 show();
+
+function showname(){
+    console.log(name1);
+}
+showname();
