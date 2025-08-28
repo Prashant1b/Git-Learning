@@ -21,4 +21,7 @@ function add(a){
     console.log(a);
 }
 
+console.log(7);
+console.log(15);
+
 console.log(255);
