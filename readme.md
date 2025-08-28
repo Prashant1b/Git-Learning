@@ -17,7 +17,9 @@ revrt ke baad git add .
 phir commit kar do
 
 <!-- How to create branch  -->
-git checkout --b <branch-name>
+git checkout -b <branch-name>
+
+we use git merge name to merge the branch
 
 <!-- Delete a branch -->
 git branch --d branch-name
