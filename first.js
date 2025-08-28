@@ -1,5 +1,5 @@
-const name="Prashant";
-const age=19;
+const name1="Prashant";
+const age=90;
 let balance=2500;
 const d=582;
 
