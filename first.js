@@ -26,8 +26,8 @@ console.log(15);
 
 console.log(255);
 
-function show(){
-    console.log(balance);
+function show(v){
+    console.log(balance+v);
 }
 
-show();
+show(10);
