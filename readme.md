@@ -29,3 +29,13 @@ we can also check how many branch are present and which branch am i currently at
 <!-- Delete a branch -->
 git branch -d branch-name
 git branch -D branch-name(unmerged also)
+
+<!-- esq:wq helpful(escape the writing code ,save and quiet) -->
+
+<!-- How to change branch name -->
+git branch -m <branch_name>
+
+<!-- Git stash -->
+allow you to temporary save your uncomiited change (both staged and unstaged) in a stash and revert working 
+directoryback to the last commit
+
