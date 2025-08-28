@@ -9,3 +9,12 @@ we can modify it and then we do git add file name or for all file we do git add 
 
 we can commit using 
 <!-- git commit --m "mesaage kuch bhi likh skate ho" -->
+
+<!-- Rever the change  -->
+git reset --hard<hash>
+git revert <hashcode>
+
+<!-- How to create branch  -->
+git checkout --b <branch-name>
+
+<!-- Delete a branch -->
