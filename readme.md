@@ -59,19 +59,19 @@ git revert <hashcode>
 revrt ke baad git add .
 phir commit kar do
 
-How to create branch 
+<!-- How to create branch  -->
 
 git checkout -b <branch-name>
 
 we use git merge name to merge the branch
 
-we use git merge branch name to merge but first of fall we need to back to master branch so we sue
+<!-- we use git merge branch name to merge but first of fall we need to back to master branch so we sue -->
 
 git checkout master
 
 we can also check how many branch are present and which branch am i currently at
 
-Delete a branch
+<!-- Delete a branch -->
 
 git branch -d branch-name
 git branch -D branch-name(unmerged also)
