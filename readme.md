@@ -44,5 +44,20 @@ hoga aur likhna hoga
 git rebase master jisse ho jayega
 uske baad ham add . karenge par commit nhi katrenge
 hame karna hai
+
 git rebase --continue -->
 
+
+<!-- github me kya karna hai -->
+
+<!-- git remote add origin https://github.com/Prashant1b/Git-Learning.git
+ git branch -M main
+ git push -u origin main-->
+
+ agar hame main update akrn ahai to
+ <!-- git pull origin main -->
+<!-- git pull --rebase origin main -->
+
+<!-- git branch -r -->
+
+<!-- git push origin --delete feature -->
