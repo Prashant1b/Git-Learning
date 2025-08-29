@@ -39,3 +39,10 @@ git branch -m <branch_name>
 allow you to temporary save your uncomiited change (both staged and unstaged) in a stash and revert working 
 directoryback to the last commit
 
+<!-- agar ham chate hai ek cycle na bankar linear change ban jaye to ham branch ka base change kar denge uske liye hame branxh par aana
+hoga aur likhna hoga
+git rebase master jisse ho jayega
+uske baad ham add . karenge par commit nhi katrenge
+hame karna hai
+git rebase --continue -->
+
