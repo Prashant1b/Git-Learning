@@ -1,3 +1,44 @@
+
+<!-- On Windows -->
+
+
+Download from website: https://git-scm.com/downloads
+
+
+
+
+
+
+<!-- ****************************************** -->
+
+
+
+
+
+
+<!-- Configure git -->
+
+
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
+
+
+
+You can verify the configuration:
+git config --list
+
+
+
+
+<!-- How to see hidden folder -->
+In Mac: CMD + SHIFT + .
+In Windows:
+In Windows 10: Click on the View tab at the top, then check the box for Hidden items in the "Show/Hide" section.
+In Windows 11: Click the View dropdown (three dots) in the toolbar, then select Show > Hidden items.
+
+
+<!-- **************************** -->
 git log give all the information of commit changes
 git log --oneline give changes information in one line 
 we can also use git show "id "  in this id we place taht id present in git log --oneline the id is the first 8 chaarcter of change address commit likha hota haid
