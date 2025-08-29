@@ -30,4 +30,10 @@ function show(v){
     console.log(balance+v);
 }
 
+function bugfix(){
+    console.log("Bug fix in the system")
+}
+
+bugfix();   
+
 show(10);
